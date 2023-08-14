@@ -2,6 +2,7 @@ additional:
   - "terraform-module-*"
 
 files:
+  - "!**.tf"
   - "!README.md"
   - "!docs/README.md"
   - "!colophon.yml"
